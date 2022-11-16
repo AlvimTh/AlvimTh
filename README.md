@@ -7,10 +7,10 @@ I'm Thalles Alvim from Brazil, I work as Test Analyst and Software Quality Assur
 
 ##Skills and Experience:
 
-Left Testing 
-Adhoc Testing  
-Agile Test 
-REST API Testing 
+→Left Testing 
+⚙️ Adhoc Testing  
+♺  Agile Test 
+🖥 REST API Testing 
 
 
 
