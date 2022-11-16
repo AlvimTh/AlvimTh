@@ -1,8 +1,5 @@
-### Hi there 👋
 
-
-
-### Hi there 👋, Hi, I'm Thalles Alvim 
+### Hi there 👋   I'm Thalles Alvim 
 #### QA/Test Analyst 
 ![QA/Test Analyst ](https://github.com/AlvimTh/AlvimTh/blob/main/README.md-generator/images/banner.png)
 
