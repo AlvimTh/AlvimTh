@@ -8,4 +8,4 @@ I'm Thalles Alvim from Brazil, I have work as Test Analyst and Software Quality 
 Skills: Shift-Left Testing / Adhoc Testing / Agile Test / REST API Testing /
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvimTh)](https://github.com/anuraghazra/github-readme-stats)
-![QA/Test Analyst ](https://github.com/AlvimTh/AlvimTh/blob/main/README.md-generator/images/banner.png)
+
