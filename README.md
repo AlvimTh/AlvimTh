@@ -11,5 +11,14 @@ Adhoc Testing
 Agile Test 
 REST API Testing 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvimTh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- 🌱 I’m currently learning Java , REST API 
+- 👯 I’m looking to collaborate on software testing 
+- 🤔 I’m looking for help with API testing 
+- 💬 Ask me about Manual testing, Agile testing , Quality Assurance  
+- 📫 How to reach me: linkedin.com/in/thallesalvim/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AlvimTh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thallesalvim//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AlvimThalles)  
 
