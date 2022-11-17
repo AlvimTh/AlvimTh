@@ -19,7 +19,7 @@ I'm Thalles Alvim from Brazil, I work as Test Analyst and Software Quality Assur
 
 
 
-- 🌱 I’m currently learning Java , REST API 
+- 🌱 I’m currently learning Java , REST API , CUCUMBER, BDD
 - 👯 I’m looking to collaborate on software testing 
 - 🤔 I’m looking for help with Data Streaming testing 
 - 💬 Ask me about Manual testing, Agile testing , Quality Assurance  
